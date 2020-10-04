@@ -1,6 +1,6 @@
 # SFND RADAR Target Generation and Detection
 
-<img src="images/project_layout.png" width="1330" height="741" />
+<img src="images/project_layout.png" width="665" height="370" />
 
 In this course we will discuss in detail what it takes for a radar to generate a perception for a self driving car. Starting from scratch we will build up from the basic principles of radar. We will cover the signal propagation and target response generation. Then we will deep dive into Range Doppler generation needed to localize the target real time.
 
